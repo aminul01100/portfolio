@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b8854fd-090d-46ec-837e-a1d3d7f690d1" name="Default Changelist" comment="updated _config.yml and gitignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="8b8854fd-090d-46ec-837e-a1d3d7f690d1" name="Default Changelist" comment="updated with the minimal-mistakes-jekyll theme files from github repo">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2024-12-06-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/.github/about-jekyll.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733423249666</updated>
       <workItem from="1733603901159" duration="2681000" />
-      <workItem from="1733637118608" duration="630000" />
+      <workItem from="1733637118608" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit with the minimal code and setup">
       <created>1733435985484</created>
@@ -138,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733604866974</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated with the minimal-mistakes-jekyll theme files from github repo">
+      <option name="closed" value="true" />
+      <created>1733638143591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733638143591</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +156,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit with the minimal code and setup" />
     <MESSAGE value="updated _config.yml and gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated _config.yml and gitignore" />
+    <MESSAGE value="updated with the minimal-mistakes-jekyll theme files from github repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated with the minimal-mistakes-jekyll theme files from github repo" />
   </component>
 </project>
